@@ -6,5 +6,6 @@ public class SayHello {
         if(true) {
             System.out.println("我更改了！！！！");
         }
+        System.out.println("error2 occurs!!!");
     }
 }

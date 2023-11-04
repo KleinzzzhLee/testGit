@@ -7,5 +7,6 @@ public class SayHello {
             System.out.println("我更改了！！！！");
         }
         System.out.println("error1 发生了");
+        System.out.println("github, 我修改了咯！！！你能不能接受我啊");
     }
 }
